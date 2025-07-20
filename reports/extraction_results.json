@@ -1,0 +1,306 @@
+{
+  "listing_text": "Set high in the Glenroy Valley, 50 Valley Crescent delivers a perfect balance of mid-century charm and contemporary family living. The clinker-brick fa\u00e7ade with warm timber accents makes an immediate impression, while a clever floor plan ensures effortless flow from front to back.\n\nStep inside to a welcoming entry and sunlit living area featuring polished hardwood floors, crisp white walls, and large picture windows that frame garden views. The space seamlessly transitions into the dining area and gourmet kitchen, fitted with sleek stone benchtops, high-gloss cabinetry, glass splashbacks, and premium stainless-steel appliances.\n\nThe accommodation comprises four bedrooms, including a master retreat with its own ensuite. The central bathroom impresses with near floor-to-ceiling tiles, a frameless shower, and a stunning clawfoot bathtub that brings timeless luxury.\n\nAt the rear, the open-plan meals area connects effortlessly to an expansive undercover alfresco zone-perfect for year-round entertaining. Landscaped gardens with raised vegetable beds and a level lawn complete this family-friendly haven.\n\nLifestyle location highlights:\n\n\u2022 Sewell Reserve & playground just a short stroll away\n\u2022 Glenroy Central, West Street Village & local cafes within minutes\n\u2022 Glenroy Station for easy CBD access\n\u2022 Zoned for Belle Vue Park Primary & Glenroy Secondary College\n\u2022 Convenient access to the Moonee Ponds Creek Trail across the road for weekend walks\n\u2022 Approx. 15 mins to Melbourne Airport & 30 mins to the CBD\n\nThis is a home that blends lifestyle and function in one of Glenroy's most sought-after pockets-ready for families to move straight in and enjoy.",
+  "analysis": {
+    "property_details": {
+      "bedrooms": "four"
+    },
+    "location_info": [
+      {
+        "name": "Glenroy Valley",
+        "confidence": 0.9235554337501526,
+        "context": "Set high in the Glenroy Valley, 50 Valley Crescent delivers a perfect balance of mid-century charm a"
+      },
+      {
+        "name": "Valley Crescent",
+        "confidence": 0.8249557018280029,
+        "context": "Set high in the Glenroy Valley, 50 Valley Crescent delivers a perfect balance of mid-century charm a"
+      },
+      {
+        "name": "Sewell Reserve",
+        "confidence": 0.7464725375175476,
+        "context": "table beds and a level lawn complete this family-friendly haven.\n\nLifestyle location highlights:\n\n\u2022 "
+      },
+      {
+        "name": "Glenroy Central",
+        "confidence": 0.9424875378608704,
+        "context": "ly haven.\n\nLifestyle location highlights:\n\n\u2022 Sewell Reserve & playground just a short stroll away\n\u2022 "
+      },
+      {
+        "name": "West Street Village",
+        "confidence": 0.9381634593009949,
+        "context": "yle location highlights:\n\n\u2022 Sewell Reserve & playground just a short stroll away\n\u2022 Glenroy Central, "
+      },
+      {
+        "name": "Glenroy Station",
+        "confidence": 0.9708170890808105,
+        "context": "ound just a short stroll away\n\u2022 Glenroy Central, West Street Village & local cafes within minutes\n\u2022 "
+      },
+      {
+        "name": "CBD",
+        "confidence": 0.8763726949691772,
+        "context": "away\n\u2022 Glenroy Central, West Street Village & local cafes within minutes\n\u2022 Glenroy Station for easy "
+      },
+      {
+        "name": "Belle Vue Park",
+        "confidence": 0.7821948528289795,
+        "context": " West Street Village & local cafes within minutes\n\u2022 Glenroy Station for easy CBD access\n\u2022 Zoned for "
+      },
+      {
+        "name": "Glenroy",
+        "confidence": 0.6673246622085571,
+        "context": "cal cafes within minutes\n\u2022 Glenroy Station for easy CBD access\n\u2022 Zoned for Belle Vue Park Primary & "
+      },
+      {
+        "name": "Moonee Ponds Creek Trail",
+        "confidence": 0.6204366683959961,
+        "context": "BD access\n\u2022 Zoned for Belle Vue Park Primary & Glenroy Secondary College\n\u2022 Convenient access to the "
+      },
+      {
+        "name": "Melbourne Airport",
+        "confidence": 0.9833320379257202,
+        "context": "nient access to the Moonee Ponds Creek Trail across the road for weekend walks\n\u2022 Approx. 15 mins to "
+      },
+      {
+        "name": "CBD",
+        "confidence": 0.8379309177398682,
+        "context": "eek Trail across the road for weekend walks\n\u2022 Approx. 15 mins to Melbourne Airport & 30 mins to the "
+      },
+      {
+        "name": "50 Valley Crescent",
+        "confidence": 0.512747585773468,
+        "context": "Set high in the Glenroy Valley, 50 Valley Crescent delivers a perfect balance of mid-century charm a"
+      }
+    ],
+    "features": [
+      {
+        "type": "modern_features",
+        "feature": "contemporary",
+        "confidence": 0.5969552878758665
+      },
+      {
+        "type": "family_features",
+        "feature": "garden",
+        "confidence": 1.0
+      },
+      {
+        "type": "luxury_features",
+        "feature": "premium finishes",
+        "confidence": 0.429593977153477
+      },
+      {
+        "type": "luxury_features",
+        "feature": "luxury",
+        "confidence": 1.0
+      },
+      {
+        "type": "family_features",
+        "feature": "family friendly",
+        "confidence": 1.0000000000000002
+      },
+      {
+        "type": "family_features",
+        "feature": "playground",
+        "confidence": 0.7071067811865476
+      },
+      {
+        "type": "modern_features",
+        "feature": "smart home",
+        "confidence": 0.5773502691896258
+      }
+    ],
+    "amenities": [],
+    "lifestyle_features": [],
+    "technical_details": [
+      {
+        "type": "organization",
+        "value": "Glenroy",
+        "confidence": 0.5305405855178833
+      }
+    ],
+    "summary": {
+      "total_entities": 22,
+      "location_count": 13,
+      "feature_count": 7,
+      "amenity_count": 0,
+      "high_confidence_entities": 11
+    }
+  },
+  "raw_entities": [
+    {
+      "entity_type": "location",
+      "value": "Glenroy Valley",
+      "confidence": 0.9235554337501526,
+      "start_pos": 16,
+      "end_pos": 30,
+      "context": "Set high in the Glenroy Valley, 50 Valley Crescent delivers a perfect balance of mid-century charm and contemporary family living."
+    },
+    {
+      "entity_type": "location",
+      "value": "Valley Crescent",
+      "confidence": 0.8249557018280029,
+      "start_pos": 35,
+      "end_pos": 50,
+      "context": "Set high in the Glenroy Valley, 50 Valley Crescent delivers a perfect balance of mid-century charm and contemporary family living. The clinker-brick f"
+    },
+    {
+      "entity_type": "location",
+      "value": "Sewell Reserve",
+      "confidence": 0.7464725375175476,
+      "start_pos": 1149,
+      "end_pos": 1163,
+      "context": "table beds and a level lawn complete this family-friendly haven.\n\nLifestyle location highlights:\n\n\u2022 Sewell Reserve & playground just a short stroll away\n\u2022 Glenroy Central, West Street Village & local cafes within m"
+    },
+    {
+      "entity_type": "location",
+      "value": "Glenroy Central",
+      "confidence": 0.9424875378608704,
+      "start_pos": 1204,
+      "end_pos": 1219,
+      "context": "ly haven.\n\nLifestyle location highlights:\n\n\u2022 Sewell Reserve & playground just a short stroll away\n\u2022 Glenroy Central, West Street Village & local cafes within minutes\n\u2022 Glenroy Station for easy CBD access\n\u2022 Zoned for"
+    },
+    {
+      "entity_type": "location",
+      "value": "West Street Village",
+      "confidence": 0.9381634593009949,
+      "start_pos": 1221,
+      "end_pos": 1240,
+      "context": "yle location highlights:\n\n\u2022 Sewell Reserve & playground just a short stroll away\n\u2022 Glenroy Central, West Street Village & local cafes within minutes\n\u2022 Glenroy Station for easy CBD access\n\u2022 Zoned for Belle Vue Park Prima"
+    },
+    {
+      "entity_type": "location",
+      "value": "Glenroy Station",
+      "confidence": 0.9708170890808105,
+      "start_pos": 1272,
+      "end_pos": 1287,
+      "context": "ound just a short stroll away\n\u2022 Glenroy Central, West Street Village & local cafes within minutes\n\u2022 Glenroy Station for easy CBD access\n\u2022 Zoned for Belle Vue Park Primary & Glenroy Secondary College\n\u2022 Convenient acc"
+    },
+    {
+      "entity_type": "location",
+      "value": "CBD",
+      "confidence": 0.8763726949691772,
+      "start_pos": 1297,
+      "end_pos": 1300,
+      "context": "away\n\u2022 Glenroy Central, West Street Village & local cafes within minutes\n\u2022 Glenroy Station for easy CBD access\n\u2022 Zoned for Belle Vue Park Primary & Glenroy Secondary College\n\u2022 Convenient access to the Mo"
+    },
+    {
+      "entity_type": "location",
+      "value": "Belle Vue Park",
+      "confidence": 0.7821948528289795,
+      "start_pos": 1320,
+      "end_pos": 1334,
+      "context": " West Street Village & local cafes within minutes\n\u2022 Glenroy Station for easy CBD access\n\u2022 Zoned for Belle Vue Park Primary & Glenroy Secondary College\n\u2022 Convenient access to the Moonee Ponds Creek Trail across the "
+    },
+    {
+      "entity_type": "location",
+      "value": "Glenroy",
+      "confidence": 0.6673246622085571,
+      "start_pos": 1345,
+      "end_pos": 1352,
+      "context": "cal cafes within minutes\n\u2022 Glenroy Station for easy CBD access\n\u2022 Zoned for Belle Vue Park Primary & Glenroy Secondary College\n\u2022 Convenient access to the Moonee Ponds Creek Trail across the road for weekend w"
+    },
+    {
+      "entity_type": "location",
+      "value": "Moonee Ponds Creek Trail",
+      "confidence": 0.6204366683959961,
+      "start_pos": 1398,
+      "end_pos": 1422,
+      "context": "BD access\n\u2022 Zoned for Belle Vue Park Primary & Glenroy Secondary College\n\u2022 Convenient access to the Moonee Ponds Creek Trail across the road for weekend walks\n\u2022 Approx. 15 mins to Melbourne Airport & 30 mins to the CBD\n\nThis"
+    },
+    {
+      "entity_type": "location",
+      "value": "Melbourne Airport",
+      "confidence": 0.9833320379257202,
+      "start_pos": 1478,
+      "end_pos": 1495,
+      "context": "nient access to the Moonee Ponds Creek Trail across the road for weekend walks\n\u2022 Approx. 15 mins to Melbourne Airport & 30 mins to the CBD\n\nThis is a home that blends lifestyle and function in one of Glenroy's most so"
+    },
+    {
+      "entity_type": "location",
+      "value": "CBD",
+      "confidence": 0.8379309177398682,
+      "start_pos": 1513,
+      "end_pos": 1516,
+      "context": "eek Trail across the road for weekend walks\n\u2022 Approx. 15 mins to Melbourne Airport & 30 mins to the CBD\n\nThis is a home that blends lifestyle and function in one of Glenroy's most sought-after pockets-re"
+    },
+    {
+      "entity_type": "organization",
+      "value": "Glenroy",
+      "confidence": 0.5305405855178833,
+      "start_pos": 1578,
+      "end_pos": 1585,
+      "context": "Melbourne Airport & 30 mins to the CBD\n\nThis is a home that blends lifestyle and function in one of Glenroy's most sought-after pockets-ready for families to move straight in and enjoy."
+    },
+    {
+      "entity_type": "bedrooms",
+      "value": "four",
+      "confidence": 0.7696354985237122,
+      "start_pos": 665,
+      "end_pos": 669,
+      "context": " cabinetry, glass splashbacks, and premium stainless-steel appliances.\n\nThe accommodation comprises four bedrooms, including a master retreat with its own ensuite. The central bathroom impresses with near"
+    },
+    {
+      "entity_type": "location",
+      "value": "50 Valley Crescent",
+      "confidence": 0.512747585773468,
+      "start_pos": 32,
+      "end_pos": 50,
+      "context": "Set high in the Glenroy Valley, 50 Valley Crescent delivers a perfect balance of mid-century charm and contemporary family living. The clinker-brick f"
+    },
+    {
+      "entity_type": "modern_features",
+      "value": "contemporary",
+      "confidence": 0.5969552878758665,
+      "start_pos": 0,
+      "end_pos": 130,
+      "context": "Set high in the Glenroy Valley, 50 Valley Crescent delivers a perfect balance of mid-century charm and contemporary family living."
+    },
+    {
+      "entity_type": "family_features",
+      "value": "garden",
+      "confidence": 1.0,
+      "start_pos": 283,
+      "end_pos": 444,
+      "context": "Step inside to a welcoming entry and sunlit living area featuring polished hardwood floors, crisp white walls, and large picture windows that frame garden views."
+    },
+    {
+      "entity_type": "luxury_features",
+      "value": "premium finishes",
+      "confidence": 0.429593977153477,
+      "start_pos": 445,
+      "end_pos": 635,
+      "context": "The space seamlessly transitions into the dining area and gourmet kitchen, fitted with sleek stone benchtops, high-gloss cabinetry, glass splashbacks, and premium stainless-steel appliances."
+    },
+    {
+      "entity_type": "luxury_features",
+      "value": "luxury",
+      "confidence": 1.0,
+      "start_pos": 729,
+      "end_pos": 874,
+      "context": "The central bathroom impresses with near floor-to-ceiling tiles, a frameless shower, and a stunning clawfoot bathtub that brings timeless luxury."
+    },
+    {
+      "entity_type": "family_features",
+      "value": "family friendly",
+      "confidence": 1.0000000000000002,
+      "start_pos": 1014,
+      "end_pos": 1113,
+      "context": "Landscaped gardens with raised vegetable beds and a level lawn complete this family-friendly haven."
+    },
+    {
+      "entity_type": "family_features",
+      "value": "playground",
+      "confidence": 0.7071067811865476,
+      "start_pos": 1115,
+      "end_pos": 1466,
+      "context": "Lifestyle location highlights:\n\n\u2022 Sewell Reserve & playground just a short stroll away\n\u2022 Glenroy Central, West Street Village & local cafes within minutes\n\u2022 Glenroy Station for easy CBD access\n\u2022 Zoned for Belle Vue Park Primary & Glenroy Secondary College\n\u2022 Convenient access to the Moonee Ponds Creek Trail across the road for weekend walks\n\u2022 Approx."
+    },
+    {
+      "entity_type": "modern_features",
+      "value": "smart home",
+      "confidence": 0.5773502691896258,
+      "start_pos": 1467,
+      "end_pos": 1663,
+      "context": "15 mins to Melbourne Airport & 30 mins to the CBD\n\nThis is a home that blends lifestyle and function in one of Glenroy's most sought-after pockets-ready for families to move straight in and enjoy."
+    }
+  ]
+}
