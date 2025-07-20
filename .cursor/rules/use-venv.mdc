@@ -1,0 +1,9 @@
+---
+alwaysApply: true
+---
+
+always use the venv when running commands.
+
+use `source .venv/bin/activate` to activate the venv.
+
+use uv to run commands.
